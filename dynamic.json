@@ -1,0 +1,44 @@
+{
+	"profile":{
+	"img":"anu.png",
+	"name":"satya anusha jeenu",
+	"roll":"569",
+	"place":"jpt",
+	"des":"btech student"	
+	},
+	"career":{
+		"info":"i want to become a software engineer"
+	},
+	"education":[
+		{
+		"sno":"1",
+		"degree":"btech",
+		"institute":"prg",
+		"per":"80",
+		"yop":"2021"
+		},
+	    {
+	    "sno":"2",
+		"degree":"inter",
+		"institute":"narayana",
+		"per":"93",
+		"yop":"2017"
+		},
+		{
+		"sno":"3",
+		"degree":"ssc",
+		"institute":"sri chaitanya",
+		"per":"97",
+		"yop":"2015"
+		}
+	],
+	"languages":[
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"telugu"
+		}
+	]
+	
+}
